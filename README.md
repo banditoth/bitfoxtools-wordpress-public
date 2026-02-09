@@ -5,7 +5,7 @@ All-in-one WordPress toolkit that replaces a whole stack of small, single-purpos
 
 This repository is the public home of the project. Use the Issues tab to report bugs, request new features, or ask for support. When opening an issue, please include your WordPress version, PHP version, and any relevant error messages or screenshots so problems can be reproduced and fixed as quickly as possible.
 
-##How to open an issue (bug, feature request, or support)
+## How to open an issue (bug, feature request, or support)
 
 Before you create a new ticket, quickly check the existing Issues to see if someone already reported the same thing or requested the same feature. If you find a matching issue, add a comment instead of opening a duplicate.
 
